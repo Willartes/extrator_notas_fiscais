@@ -20,7 +20,7 @@ import os
 # CONFIGURAÇÃO PRINCIPAL
 # ============================================================
 CAMINHO_PDF   = "notas.pdf"
-CAMINHO_EXCEL = "notas_estruturada.xlsx"
+CAMINHO_EXCEL = "notas_estruturadas.xlsx"
 # ============================================================
 
 
